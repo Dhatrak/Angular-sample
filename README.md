@@ -1,2 +1,3 @@
 # Angular-sample
-sample-learningphase
+sample-learningPhase
+before running the project install npm package:-> npm install
